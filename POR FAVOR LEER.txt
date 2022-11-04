@@ -1,0 +1,7 @@
+No supe como subir el proyecto de Tinkercad a Github y me perdi cuando explicaron como hacerlo,
+dejo links de GDB y Tinkercad aca y el archivo que se descarga de Tinkercad en la carpeta del repo, por si las dudas.
+
+
+GDB : https://onlinegdb.com/Ig_kekK6J
+
+Tinkedcad: https://www.tinkercad.com/things/j5mGEKjHkNA-daring-hillar/editel?sharecode=gBLGgsZhTTvaUHi4MaWZM7mT4djbXVMORPH8EcaZylg
